@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HSVGaming
+  m_Name: SlowHSVGaming
   m_Shader: {fileID: -6465566751694194690, guid: 05a65b5292a47694abfe5c62145f688e,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
@@ -50,7 +50,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_29B00497: 1
-    - Vector1_38A88C22: 1
+    - Vector1_38A88C22: 0.3
     - Vector1_68E637DF: 1
     - _AlphaClip: 0
     - _Blend: 0
